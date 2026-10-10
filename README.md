@@ -297,12 +297,4 @@ Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.
 - [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
 - Questions or ideas: [open an issue](https://github.com/nirholas/agent-cli/issues) or [start a discussion](https://github.com/nirholas/agent-cli/discussions)
 
-## Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=nirholas/agent-cli)](https://github.com/nirholas/agent-cli/graphs/contributors)
-
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/agent-cli&type=Date)](https://www.star-history.com/#nirholas/agent-cli&Date)
-
 <!-- /three.ws:growth -->
