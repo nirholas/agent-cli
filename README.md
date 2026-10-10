@@ -279,3 +279,30 @@ Apache-2.0. See [LICENSE](LICENSE).
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/agent-cli), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If agent-cli saves you time, **[star it on GitHub](https://github.com/nirholas/agent-cli)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=agent-cli%3A%20Run%20a%20three.ws%20agent%20on%20your%20own%20machine%20or%20VPS%3A%20a%20terminal%20UI%20with%20slash%20commands%2C%20streaming%20tool&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-cli) · [Share on Bluesky](https://bsky.app/intent/compose?text=agent-cli%3A%20Run%20a%20three.ws%20agent%20on%20your%20own%20machine%20or%20VPS%3A%20a%20terminal%20UI%20with%20slash%20commands%2C%20streaming%20tool%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-cli) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-cli) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-cli&t=agent-cli%3A%20Run%20a%20three.ws%20agent%20on%20your%20own%20machine%20or%20VPS%3A%20a%20terminal%20UI%20with%20slash%20commands%2C%20streaming%20tool) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagent-cli&title=agent-cli%3A%20Run%20a%20three.ws%20agent%20on%20your%20own%20machine%20or%20VPS%3A%20a%20terminal%20UI%20with%20slash%20commands%2C%20streaming%20tool)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/agent-cli` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/agent-cli/issues) or [start a discussion](https://github.com/nirholas/agent-cli/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/agent-cli)](https://github.com/nirholas/agent-cli/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/agent-cli&type=Date)](https://www.star-history.com/#nirholas/agent-cli&Date)
+
+<!-- /three.ws:growth -->
